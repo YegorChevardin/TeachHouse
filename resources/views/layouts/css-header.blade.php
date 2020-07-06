@@ -1,0 +1,13 @@
+<link rel="apple-touch-icon" href="{{ asset('assets/apple-touch-icon.png') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/bootstrap.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/animate.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/meanmenu.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/magnific-popup.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/owl.carousel.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/font-awesome.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/et-line-icon.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/reset.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/ionicons.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/material-design-iconic-font.min.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">
+<link rel="stylesheet" href="{{ asset('assets/css/responsive.css') }}">
