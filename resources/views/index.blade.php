@@ -15,7 +15,7 @@
                                         <p>Избавьтесь от проблем с</p>
                                         <h2>РАЗГОВОРНЫМ АНГЛИЙСКИМ</h2>
                                         <p>навсегда, после прохождения нашего онлайн курса, с учителем <a href="{{ route('teacher-details') }}" target="_blank">Andy Fedorchuk</a> , до того, как вы уедите за границу!</p>
-                                        <a class="default-btn" href="{{ route('about') }}">Узнать больше</a>
+                                        <a class="default-btn" href="{{ route('about') }}">подробнее</a>
                                     </div>
                                 </div>
                             </div>
@@ -55,9 +55,9 @@
                             </a>
                         </div>
                         <div class="course-content">
-                            <h3><a href="{{ route('course-details') }}">CSE ENGINEERING</a></h3>
+                            <h3><a href="{{ route('course-details') }}">Менеджмент на английском</a></h3>
                             <p>I must explain to you how all this a mistaken idea of denouncing great explorer of the rut the is lder of human happiness</p>
-                            <a class="default-btn" href="{{ route('course-details') }}">read more</a>
+                            <a class="default-btn" href="{{ route('course-details') }}">подробнее</a>
                         </div>
                     </div>
                 </div>
@@ -71,9 +71,9 @@
                             </a>
                         </div>
                         <div class="course-content">
-                            <h3><a href="{{ route('course-details') }}">CSE ENGINEERING</a></h3>
+                            <h3><a href="{{ route('course-details') }}">Улучшение разговорного английского</a></h3>
                             <p>I must explain to you how all this a mistaken idea of denouncing great explorer of the rut the is lder of human happiness</p>
-                            <a class="default-btn" href="{{ route('course-details') }}">read more</a>
+                            <a class="default-btn" href="{{ route('course-details') }}">подробнее</a>
                         </div>
                     </div>
                 </div>
@@ -87,9 +87,9 @@
                             </a>
                         </div>
                         <div class="course-content">
-                            <h3><a href="{{ route('course-details') }}">CSE ENGINEERING</a></h3>
+                            <h3><a href="{{ route('course-details') }}">Улучшение разговорного английского для детей</a></h3>
                             <p>I must explain to you how all this a mistaken idea of denouncing great explorer of the rut the is lder of human happiness</p>
-                            <a class="default-btn" href="{{ route('course-details') }}">read more</a>
+                            <a class="default-btn" href="{{ route('course-details') }}">подробнее</a>
                         </div>
                     </div>
                 </div>
@@ -103,10 +103,10 @@
             <div class="row">
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div class="notice-right-wrapper mb-25 pb-25">
-                        <h3>TAKE A VIDEO TOUR</h3>
+                        <h3>Знакомство с клубом разговорного английского языка</h3>
                         <div class="notice-video">
                             <div class="video-icon video-hover">
-                                <a class="video-popup" href="https://www.youtube.com/watch?v=to6Ghf8UL7o">
+                                <a class="video-popup" href="https://www.youtube.com/watch?v=sXHbvSJ4RPk">
                                     <i class="zmdi zmdi-play"></i>
                                 </a>
                             </div>
@@ -115,31 +115,31 @@
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div class="notice-left-wrapper">
-                        <h3>notice board</h3>
+                        <h3>Ближайшие события</h3>
                         <div class="notice-left">
                             <div class="single-notice-left mb-23 pb-20">
-                                <h4>5, June 2017</h4>
-                                <p>I must explain to you how all this mistaken idea of denouncing plasure and praising pain was born and I will give you a complete </p>
-                            </div>
-                            <div class="single-notice-left hidden-sm mb-23 pb-20">
-                                <h4>4, June 2017</h4>
-                                <p>I must explain to you how all this mistaken idea of denouncing plasure and praising pain was born and I will give you a complete </p>
-                            </div>
-                            <div class="single-notice-left pb-70">
-                                <h4>3, June 2017</h4>
-                                <p>I must explain to you how all this mistaken idea of denouncing plasure and praising pain was born and I will give you a complete </p>
+                                <h4>01.09.2020</h4>
+                                <p>
+                                    Бесплатный зум класс. Консультация с иностранцем
+                                </p>
                             </div>
                             <div class="single-notice-left mb-23 pb-20">
-                                <h4>5, June 2017</h4>
-                                <p>I must explain to you how all this mistaken idea of denouncing plasure and praising pain was born and I will give you a complete </p>
+                                <h4>01.09.2020</h4>
+                                <p>
+                                    Бесплатный зум класс. Консультация с иностранцем
+                                </p>
                             </div>
-                            <div class="single-notice-left hidden-sm mb-23 pb-20">
-                                <h4>4, June 2017</h4>
-                                <p>I must explain to you how all this mistaken idea of denouncing plasure and praising pain was born and I will give you a complete </p>
+                            <div class="single-notice-left mb-23 pb-20">
+                                <h4>01.09.2020</h4>
+                                <p>
+                                    Бесплатный зум класс. Консультация с иностранцем
+                                </p>
                             </div>
-                            <div class="single-notice-left pb-70">
-                                <h4>3, June 2017</h4>
-                                <p>I must explain to you how all this mistaken idea of denouncing plasure and praising pain was born and I will give you a complete </p>
+                            <div class="single-notice-left mb-23 pb-20">
+                                <h4>01.09.2020</h4>
+                                <p>
+                                    Бесплатный зум класс. Консультация с иностранцем
+                                </p>
                             </div>
                         </div>
                     </div>
